@@ -1,0 +1,5 @@
+SPA - Single Pages Aplications //ex tech: React, Angular
+
+PWA - Progressive Web App //ex tech: Vue, Ionic
+
+Webcomponents - Forma de criar components para web de forma nativa, utilizando codigos menores, reutilizaveis e modulares // 4 Pilares: Custom elements, Shadow DOM, HTML Templates e HTML Imports
