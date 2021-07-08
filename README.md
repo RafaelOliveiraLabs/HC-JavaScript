@@ -13,6 +13,6 @@
 #### > How to Run
 
 - git clone: https://github.com/rafamoliv/HC-JavaScript.git
-- open terminal: cd Projetos
+- open terminal: cd Projeto
 - npm init -y
 - npm start
